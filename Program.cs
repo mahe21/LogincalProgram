@@ -7,7 +7,8 @@
             FibnacciSeries fibnacciSeries = new FibnacciSeries();
             fibnacciSeries.FibonacciSeries(10);
 
-            
+            PerfectNumber perfectNumbers = new PerfectNumber();
+            perfectNumbers.perfectNumber();
 
         }
     }
