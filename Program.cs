@@ -16,6 +16,9 @@
             ReverseNumbers rev = new ReverseNumbers();
             rev.ReverseNumber();
 
+            StopWatch stopWatch = new StopWatch();
+            stopWatch.StopWatchTime();
+
         }
     }
 }
