@@ -13,6 +13,9 @@
             PrimeNumber number = new PrimeNumber();
             number.PrimeNum();
 
+            ReverseNumbers rev = new ReverseNumbers();
+            rev.ReverseNumber();
+
         }
     }
 }
