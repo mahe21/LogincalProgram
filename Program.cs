@@ -1,6 +1,6 @@
 ﻿namespace LogicalPrograms
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -9,6 +9,9 @@
 
             PerfectNumber perfectNumbers = new PerfectNumber();
             perfectNumbers.perfectNumber();
+
+            PrimeNumber number = new PrimeNumber();
+            number.PrimeNum();
 
         }
     }
